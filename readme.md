@@ -7,4 +7,4 @@ Všetky materiály, ktoré v HD budem používať, umiestnim sem, aby boli pre k
 Začínam s projektom **Etický zákerák** (od zvedavosti k problémom) a nižšie sú prezentácie vytvorené pomocou [DZSlides](https://github.com/paulrouget/dzslides), ktoré som ukazoval v HD:
 
 - [Predstavenie autora a projektu + prvé zákernosti](eticky-zakerak-01.html)
-- 
+- [Pokračujeme v zákernostiach + viac Git a AI](eticky-zakerak-02.html)
