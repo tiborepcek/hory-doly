@@ -8,3 +8,4 @@ Začínam s projektom **Etický zákerák** (od zvedavosti k problémom) a niž�
 
 - [Predstavenie autora a projektu + prvé zákernosti](eticky-zakerak-01.html)
 - [Pokračujeme v zákernostiach + viac Git a AI](eticky-zakerak-02.html)
+- [Umelá inteligencia prakticky](umela-inteligencia-prakticky.html)
